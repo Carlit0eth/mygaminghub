@@ -103,7 +103,7 @@ function Home({defaultPosts}) {
               <Header />
 
               {/* Hero section with main title and description */}
-              <Hero title="Make this your own community forum!" description="Respectful and good-faith discussion should be the cornerstone of any decision-making process. In trying to enact change, please keep this principle in mind." />
+              <Hero title="Latest gaming news" description="Your gaming sanctuary! Join a passionate community of gamers. Discuss releases, share art, compete, and connect with fellow players." />
 
               {/* Page content */}
               <section>
